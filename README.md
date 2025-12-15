@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muratgurpinarr
-- 👀 I’m interested in React & JavaScript & Cyber Security
-- 🌱 I’m currently learning React & JavaScript & Cyber Security
+- 👀 I’m interested in React & JavaScript & Node JS
+- 🌱 I’m currently learning React & JavaScript & Node JS
 - 📫 How to reach me www.linkedin.com/in/murat--gurpinar
 
 
