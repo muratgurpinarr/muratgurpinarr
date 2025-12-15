@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muratgurpinarr
 - 👀 I’m interested in React & JavaScript & Node JS
 - 🌱 I’m currently learning React & JavaScript & Node JS
-- 📫 How to reach me www.linkedin.com/in/murat--gurpinar
+- 📫 How to reach me www.linkedin.com/in/muratgurpinar34
 
 
 <!---
