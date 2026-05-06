@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muratgurpinarr
-- 👀 I’m interested in React & JavaScript & Node JS
-- 🌱 I’m currently learning React & JavaScript & Node JS
+- 👀 I’m interested in Python & JavaScript & Django
+- 🌱 I’m currently learning Python & JavaScript & Django
 - 📫 How to reach me www.linkedin.com/in/muratgurpinar34
 
 
